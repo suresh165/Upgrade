@@ -1,0 +1,59 @@
+body
+{
+background-color: #23A6D5;
+}
+.btn
+{
+margin-right: 10px;
+}
+.heading
+{
+   font-family: 'Bilbo Swash Caps';font-size: 22px;
+}
+#middletext{
+   font-family: 'Marck Script', cursive;
+   margin-top: 0;
+   margin: 0 0 0px 10px;
+}
+.left
+{
+align-items: center;
+display: flex;
+justify-content: center;
+}
+.col-9 h5
+{
+font-size: 1.60rem;
+font-weight: bold;
+}
+.right
+{
+align-items: center;
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+}
+.container
+{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+.container .card
+{
+border-radius: 11px;
+   max-width: 480px;
+}
+.container .col-9,.right
+{
+background-color: #e0e0e0;
+}
+.container .right
+{
+border-radius: 11px;
+}
+
+#popupModal .modal-content
+{
+	margin-top: 180px;
+}

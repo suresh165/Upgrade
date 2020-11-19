@@ -1,0 +1,41 @@
+body{
+	background-color: aqua;
+}
+.btn
+{
+margin-right: 10px;
+}
+.heading
+{
+   font-family: 'Bilbo Swash Caps';font-size: 22px;
+}
+.container .row .col h2
+{
+	text-align: center;
+}
+.container .sidebutton
+{
+	text-align: right;
+}
+.container .col-md-8 textarea
+{
+	width: 100%;
+    height: 80px;
+    display: block;
+    margin-bottom: 10px;
+}
+.container .row
+{
+	margin-bottom: 10px;
+}
+.container .comments
+{
+	padding:10px;
+	background-color: #ccc;
+	width:100%;
+}
+.container .comments p
+{
+	background-color: white;
+	padding:10px;
+}

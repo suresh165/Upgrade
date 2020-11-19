@@ -1,0 +1,52 @@
+body
+{
+     background-image: url('../images/background.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center center;
+        background-size: cover;
+        margin: 0;
+}
+.btn
+{
+    
+    font-weight: bold;
+    font-size: 16px;
+    color: #000000;
+    margin: 10px 10px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #112fb4;
+}
+.heading
+{
+   font-family: 'Bilbo Swash Caps';font-size: 22px;
+}
+.main
+{
+	
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 426px;
+}
+.modal-footer
+{
+	justify-content: center;
+}
+.create-post-btn
+{
+    text-align: center;
+}
+.modal-contentr{
+        padding: 5px 16px 16px 16px;
+}
+.label {
+    letter-spacing: 0.5px;
+    font-family: 'Abel', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
